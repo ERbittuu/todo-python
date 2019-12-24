@@ -1,0 +1,5 @@
+coverage==4.5.1 --user
+Django==2.1.11 --user
+django-nose==1.4.6 --user
+djangorestframework==3.10.2 --user
+nose==1.3.7 --user
